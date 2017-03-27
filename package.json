@@ -1,9 +1,9 @@
 {
-  "name": "pubster-syntax",
+  "name": "pubster-lg-syntax",
   "theme": "syntax",
-  "version": "3.0.1",
-  "description": "A dark syntax theme inspired by Tubster",
-  "repository": "https://github.com/plttn/pubster-syntax",
+  "version": "1.0.0",
+  "description": "A dark syntax theme with a subdued gutter inspired by Tubster",
+  "repository": "https://github.com/seanot/pubster-lg-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">= 1.13"
